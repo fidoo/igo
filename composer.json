@@ -1,0 +1,7 @@
+{
+    "name": "fidoo/igo",
+    "type": "php-framework",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
